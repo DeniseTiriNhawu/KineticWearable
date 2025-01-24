@@ -10,5 +10,3 @@ Features:
 
 Movement-based interactivity
 Enhances dance performances with responsive design
-Portfolio Link:
-Kinetic Wearable on Portfolio
